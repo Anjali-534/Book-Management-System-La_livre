@@ -1,0 +1,20 @@
+/* Add custom styles */
+.table-custom {
+  opacity: 0.8; /* Set opacity */
+  border: 1px solid #ccc;
+}
+
+.table-custom th,
+.table-custom td {
+  padding: 12px;
+  text-align: left;
+}
+
+.table-custom a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.table-custom a:hover {
+  text-decoration: underline;
+}
